@@ -25,9 +25,7 @@
 
 <p style="text-indent: 50px; text-align: justify;">The major disadvantages of this type of flow detection are the high initial costs for installation and difficulty in installation and inspection. The Venturi effect is the reduction in fluid pressure that results when a fluid flows through a constricted section of pipe. The fluid velocity must increase through the constriction to satisfy the equation of continuity, while its pressure must decrease due to conservation of energy: the gain in kinetic energy is balanced by a drop in pressure or a pressure gradient force. An equation for the drop in pressure due to venturi effect may be derived from a combination of Bernoulli’s principle and the equation of continuity.</p></br>
 
-<p><center><img src="images/exp5-2.png"style="width:345px; height:164px;"></img></center></p> </br>
-
-
+<center><img src="images/exp5-2.png"style="width:345px; height:164px;"></img></center>
 
 <p >Let d<sub>1</sub> = Diameter at inlet or at section 1</p></br>
 <p >V<sub>1</sub> = velocity of fluid at section 1</p></br>
@@ -55,8 +53,8 @@
 
 <img src="images/exp5-9.png" style="position:absolute; width:306px; height:496px; "/></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br>
 
-<p>Where x = difference between the liquid column in U tube, ρ<sub>L</sub> = density of lighter liquid, ρ = density of liquid flowing through pipe.</p></br>
-<p>But, discharge through venturimeter,</p></br>
+<p>Where,</br> x = difference between the liquid column in U tube,</br> ρ<sub>L</sub> = density of lighter liquid,</br> ρ = density of liquid flowing through pipe.</p>
+<p>But, discharge through venturimeter,</p>
 <p>Q=a<sub>2</sub>v<sub>2</sub></p></br>
 
 <img src="images/exp5-10.png" style="position:absolute; width:379px; height:192px; "/></br></br></br></br></br></br></br></br></br></br>
