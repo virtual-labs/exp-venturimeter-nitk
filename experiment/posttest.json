@@ -2,38 +2,89 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "Coefficient of discharge vary with the following factors",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Type of orifice",
+        "b": "Pipe size",
+        "c": "Reynolds number",
+        "d": "All the above"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
       },
-      "correctAnswer": "a",
-      "difficulty": "beginner"
+      "correctAnswer": "d",
+      "difficulty": ""
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "The velocity of discharge of a fluid through an venturi meter is associated most closely with",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Archimedes",
+        "b": "Bernoulli",
+        "c": "Eulers principle",
+        "d": "Torricelli"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "b",
+      "difficulty": ""
+    },
+    {
+      "question": "The vena-contracta is the point of",
+      "answers": {
+        "a": "Maximum convergence",
+        "b": "Maximum expansion",
+        "c": "Maximum flow",
+        "d": "None of the above"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "a",
+      "difficulty": ""
+    },
+    {
+      "question": "Choose the correct answer",
+      "answers": {
+        "a": "Head loss across venturimeter is high",
+        "b": "Head loss across orificemeter is low",
+        "c": "All the above are wrong",
+        "d": "All the above are correct"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
       },
       "correctAnswer": "c",
-      "difficulty": "beginner"
+      "difficulty": ""
+    },
+    {
+      "question": "The coefficient of discharge for venturi meter will typically be in the following range:",
+      "answers": {
+        "a": "0.95 to 1.0",
+        "b": "0.60 to 0.65",
+        "c": "0.75 to 0.90",
+        "d": "0.92 to 0.96"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "a",
+      "difficulty": ""
     }
   ]
 }
