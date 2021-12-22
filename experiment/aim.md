@@ -1,1 +1,1 @@
-### Aim of the experiment
+To determine the coefficient of discharge of given venturimeter.
