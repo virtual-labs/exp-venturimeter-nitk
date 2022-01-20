@@ -1,0 +1,69 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "The velocity profile near the vena-contract will be",
+      "answers": {
+        "a": "Parabolic",
+        "b": "Hyperbola",
+        "c": "Nearly rectangular",
+        "d": "Zero"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "c",
+      "difficulty": ""
+    },
+    {
+      "question": "What is the normal range of converging cone of angle of a venturimeter?",
+      "answers": {
+        "a": "15-20",
+        "b": "7-15",
+        "c": "2-5",
+        "d": "25-45"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "a",
+      "difficulty": ""
+    },
+    {
+      "question": "The angle of diverging/converging section has to be kept minimum to",
+      "answers": {
+        "a": "Avoid fluid separating from the boundary",
+        "b": "Give less space for the fluid flow",
+        "c": "Both the above",
+        "d": "None of these"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "a",
+      "difficulty": ""
+    },
+    {
+      "question": "Value of coefficient of discharge of orifice meter is much smaller than the venturimeter. (Say true or false)",
+      "answers": {
+        "a": "False",
+        "b": "True"
+      },
+      "explanations": {
+        "a": "",
+        "b": ""
+      },
+      "correctAnswer": "b",
+      "difficulty": ""
+    }
+  ]
+}
